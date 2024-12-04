@@ -11,6 +11,7 @@ javascript:(function(){document.body.querySelectorAll("*").forEach(el=>el.style.
 ![Alt text](screenshot3.png)
 
 3. Click bookmark on desired webpage
+
 ![Alt text](screenshot4.png)
 
 ![Alt text](screenshot1.png)
